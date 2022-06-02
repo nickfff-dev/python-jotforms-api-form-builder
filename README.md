@@ -12,9 +12,6 @@ Install via pip (latest version)
 
         $ pip install git+git://github.com/jotform/jotform-api-python.git
 
-### Documentation
-
-You can find the docs for the API of this client at [http://api.jotform.com/docs/](http://api.jotform.com/docs)
 
 ### Authentication
 
